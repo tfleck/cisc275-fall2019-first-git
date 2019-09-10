@@ -28,6 +28,8 @@ git status
 
 - Create a Github account  (at www.github.com (Links to an external site.)), write down your username below.
 
+tfleck
+
 - Clone this repository to your local machine: https://github.com/nmerrill67/cisc275-fall2019-first-git (DO NOT FORK IT)
 
 Create an empty repository under your GitHub account and name it "cisc275-fall2019-first-git".
